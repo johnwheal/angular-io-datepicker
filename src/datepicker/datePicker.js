@@ -11,7 +11,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 Object.defineProperty(exports, "__esModule", { value: true });
 var core_1 = require("@angular/core");
 var moment_1 = require("moment");
-var angular_io_overlay_1 = require("angular-io-overlay");
+var angular_io_overlay_1 = require("gh-angular-io-overlay");
 var common_1 = require("./common");
 var datePickerPanel_1 = require("./datePickerPanel");
 var dateParseData = {

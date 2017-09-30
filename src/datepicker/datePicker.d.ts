@@ -1,7 +1,7 @@
 import { AbstractControl, ControlValueAccessor } from "@angular/forms";
 import { ElementRef, OnInit, Component } from "@angular/core";
 import { Moment } from "moment";
-import { OverlayService } from "angular-io-overlay";
+import { OverlayService } from "gh-angular-io-overlay";
 import { ControlValueAccessorProviderFactory, MomentParseFunction, OnChangeHandler, OnTouchedHandler, ValidatorProviderFactory } from "./common";
 export declare type ParserFunction = (value: any, parseFn: MomentParseFunction) => Moment;
 

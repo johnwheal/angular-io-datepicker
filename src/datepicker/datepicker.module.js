@@ -9,7 +9,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var core_1 = require("@angular/core");
 var common_1 = require("@angular/common");
 var forms_1 = require("@angular/forms");
-var angular_io_overlay_1 = require("angular-io-overlay");
+var angular_io_overlay_1 = require("gh-angular-io-overlay");
 var index_1 = require("./selectors/index");
 var index_2 = require("./index");
 var DatePickerModule = (function () {

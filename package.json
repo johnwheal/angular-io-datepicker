@@ -1,6 +1,6 @@
 {
-  "name": "angular-io-datepicker",
-  "version": "1.3.1",
+  "name": "gh-angular-io-datepicker",
+  "version": "1.0.0",
   "description": "Datepicker component for angular2",
   "main": "./src/datepicker/index.js",
   "typings": "./src/datepicker/index.d.ts",
@@ -18,13 +18,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rd-dev-ukraine/angular-io-datepicker"
+    "url": "git+https://github.com/johnwheal/angular-io-datepicker"
   },
   "bugs": {
-    "url": "https://github.com/rd-dev-ukraine/angular-io-datepicker/issues"
+    "url": "https://github.com/johnwheal/angular-io-datepicker/issues"
   },
-  "homepage": "https://github.com/rd-dev-ukraine/angular-io-datepicker#readme",
-  "author": "Sergey Tokarev <sergey.tokarev@rd-dev.net>",
+  "homepage": "https://github.com/johnwheal/angular-io-datepicker#readme",
+  "author": "John Wheal <john@wheal.co.uk>",
   "license": "MIT",
   "scripts": {
     "start": "ng serve",
@@ -40,7 +40,7 @@
     "@angular/platform-browser": "^4.0.0",
     "@angular/platform-browser-dynamic": "^4.0.0",
     "@angular/router": "^4.0.0",
-    "angular-io-overlay": "^1.2.7",
+    "gh-angular-io-overlay": "^1.0.0",
     "core-js": "^2.4.1",
     "moment": "^2.14.1",
     "rxjs": "^5.1.0",
