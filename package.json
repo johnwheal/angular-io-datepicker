@@ -1,6 +1,6 @@
 {
   "name": "gh-angular-io-datepicker",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Datepicker component for angular2",
   "main": "./src/datepicker/index.js",
   "typings": "./src/datepicker/index.d.ts",
@@ -40,7 +40,7 @@
     "@angular/platform-browser": "^4.0.0",
     "@angular/platform-browser-dynamic": "^4.0.0",
     "@angular/router": "^4.0.0",
-    "gh-angular-io-overlay": "^1.0.0",
+    "gh-angular-io-overlay": "^1.1.0",
     "core-js": "^2.4.1",
     "moment": "^2.14.1",
     "rxjs": "^5.1.0",
